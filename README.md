@@ -15,7 +15,7 @@ We develop our codes in the following environment:
 
 Performance comparison of baselines on different datasets in terms of Recall@20, NDCG@20 and Precision@20:
 
-<img src="./figures/performance.png" style="zoom:100%;" />
+<img src=".MDMNS/figures/performance.png" style="zoom:100%;" />
 
 ## 🚀 How to run the codes
 

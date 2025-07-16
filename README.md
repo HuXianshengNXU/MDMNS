@@ -1,6 +1,6 @@
 # MDMNS: Modal-aware Diffusion-enhanced with Multi-level Negative Sampling for Multimodal-based Recommendation
 
-<img src="./figures/model.png" style="zoom:100%;" />
+<img src="./MDMNS/figures/model.png" style="zoom:100%;" />
 
 ## 📝 Environment
 
@@ -76,4 +76,4 @@ python Main.py --data sports --reg 1e-6 --ssl_reg 1e-2 --temp 0.1 --ris_lambda 0
 
 ## 📚 Datasets
 
-<img src="./figures/dataset.png" style="zoom:100%;" />
+<img src="./MDMNS/figures/dataset.png" style="zoom:100%;" />
